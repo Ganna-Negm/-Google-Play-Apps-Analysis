@@ -42,11 +42,7 @@ Examines user feedback using sentiment analysis to understand real user experien
 - Python (for sentiment analysis)
 
 ---
-
-## 📷 Dashboard Preview
-![Overview](images/overview.png)  
-![Performance](images/performance.png)  
-![Sentiment](images/sentiment.png)  
+  
 
 ---
 
